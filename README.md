@@ -54,8 +54,3 @@ Build and Run:
 * All client code is in the **client** directory, and is a very rough bootstrap design with a single ajax form.
 * Workflow status is polled, and accesses the javascript object in **src/control/status.ts**
 * All workflow specific values are stored in the **options,** which are passed through the application until completion.
-
-## Contact ##
-
-* realeyes.com
-* https://github.com/realeyes-media/demo-encoder
