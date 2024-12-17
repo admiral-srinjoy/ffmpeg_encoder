@@ -11,7 +11,7 @@
     "lint": "tslint -c ./tslint.json 'src/**/*.ts' --exclude 'src/**/*.d.ts'",
     "nodemon": "nodemon --watch ./dist dist/bin/www.js"
   },
-  "author": "RealEyes Media LLC, phil@realeyes.com",
+  "author": "Srinjoy Choudhury",
   "license": "ISC",
   "devDependencies": {
     "@types/aws-sdk": "^2.7.0",
